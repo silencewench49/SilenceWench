@@ -1,0 +1,2 @@
+# SilenceWench
+SilenceWench Coin
